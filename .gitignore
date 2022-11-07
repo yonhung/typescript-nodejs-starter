@@ -1,0 +1,3 @@
+# nodejs project gitignore
+node_modules
+.vscode
